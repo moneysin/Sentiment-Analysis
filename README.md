@@ -1,1 +1,1 @@
-# Sentiment-Analysis
+# Sentiment analysis using R on the movie dataset published in Kaggle contains 25,000 movie reviews from IMDB, with half of them classifed to be positive in sentiment and the rest to be negative. Different algorithms have been used to test the model and check for the accuracy.
